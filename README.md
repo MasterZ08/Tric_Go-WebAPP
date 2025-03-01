@@ -1,6 +1,6 @@
-# sub_admin_panel
+# Tric_Go-WebAPP
 
-A new Flutter project.
+A web panel for Tric_GO(Super-Admin, Admin, Sub-Admin panel)
 
 ## Getting Started
 
